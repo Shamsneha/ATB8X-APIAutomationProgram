@@ -1,6 +1,6 @@
 ### Rest Assured Learning
--Rest Assured Basics
--Rest Assured Advance Concepts
+ 1. Rest Assured Basics
+ 2. Rest Assured Advance Concepts
 
 
 ## Project-API Automation
@@ -24,10 +24,10 @@ CI/CD**
 13. Database - MySQL connector (Java lib) , JDBC connector
 
 ### Dependencies
--Rest Assured
--TestNG
--Allure Report
--Exten Report
--Jackson Resport
--Apach POI or Fillow (Excel)
-Log4J - Logs
+1. Rest Assured
+2. TestNG
+3. Allure Report
+4. Exten Report
+5. Jackson Resport
+6. Apach POI or Fillow (Excel)
+7. Log4J - Logs
